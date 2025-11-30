@@ -183,6 +183,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [LinkedIn Profile](https://linkedin.com) - email@example.com
+Ahmed Sayedahmed - ahmedsayedahmedyounes@gmail.com
 
 Project Link: [https://github.com/yourusername/pakistan-ecommerce-ml](https://github.com/yourusername/pakistan-ecommerce-ml)
