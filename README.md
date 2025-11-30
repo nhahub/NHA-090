@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan E-Commerce ML Pipeline 🚀
+# 🇵🇰 DEPI R3 Capstone Project: Pakistan E-Commerce ML Pipeline 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -184,5 +184,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 Ahmed Sayedahmed - ahmedsayedahmedyounes@gmail.com
+
+Other Contributers are to be added
 
 Project Link: [https://github.com/nhahub/NHA-090?tab=readme-ov-file](https://github.com/nhahub/NHA-090?tab=readme-ov-file)
