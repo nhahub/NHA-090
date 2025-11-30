@@ -52,7 +52,7 @@ We implement **4 distinct algorithms** ranging from beginner-friendly baselines 
 │   ├── Model2-LogisticReg.ipynb     # Baseline Classification (Completion)
 │   ├── Model3-GradientBoost.ipynb   # Advanced Regression (Sales)
 │   ├── Model4-SVM.ipynb             # Advanced Classification (Completion)
-│   └── Model5-MLflow-Deploy.ipynb   # 🚀 Deployment Pipeline
+│   └── MLflow-Deploy.ipynb   # 🚀 Deployment Pipeline
 │
 ├── 📁 production_models/            # Saved artifacts (pkl files, metadata)
 │
